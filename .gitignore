@@ -131,3 +131,9 @@ dmypy.json
 .idea/
 
 .DS_Store
+/sample_data/
+credentials.json
+data.db
+sendgridtesting.py
+stuff.py
+token.pickle
